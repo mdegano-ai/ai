@@ -46,7 +46,7 @@ h3 {
 
   .button {
     border: 1px solid #4D93D9;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    background: linear-gradient(#DAE9F8, #A6C9EC);
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
     background-color: #A6C9EC;
@@ -61,7 +61,7 @@ h3 {
     text-align:center;
 
     &:hover {
-      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+     background: linear-gradient(#DAE9F8, #DAE9F8);
       background-color: #A6C9EC;
     }
   }
