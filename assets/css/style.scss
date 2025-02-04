@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+h1 {
+  font-size:14px;
+}
+
+h2 {
+  font-size: 14px;
+  color:#F32E0D;
+}
+
+h3, h4, h5, h6 {
+  color:#07F907;
+}
