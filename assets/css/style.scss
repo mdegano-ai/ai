@@ -11,10 +11,11 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: #DAE9F8;
+  background: url(../images/body-background.png) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color:#333;
   margin:0 0 10px;
 }
 
@@ -27,22 +28,21 @@ h1, h2, h3 {
 }
 
 h1 {
-  color:#215C98;
-  font-size:22px;
+  font-size:28px;
 }
 
 h2 {
-  color:#4D93D9;
-  font-size: 20px;
+  font-size: 24px;
+  color:#393939;
+}
+
+h3, h4, h5, h6 {
+  color:#666666;
 }
 
 h3 {
   font-size: 18px;
   line-height: 24px;
-}
-
-h3, h4, h5, h6 {
-  color:#000000;
 }
 
 a {
@@ -78,7 +78,7 @@ section img {
 }
 
 blockquote {
-  border-left:1px solid #4D93D9;
+  border-left:1px solid #ffcc00;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -139,10 +139,10 @@ td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
-  border-right: 1px solid #4D93D9;
+  border-right: 1px solid #ffcc00;
 
   &:first-child {
-    border-left: 1px solid #4D93D9;
+    border-left: 1px solid #ffcc00;
   }
 }
 
@@ -168,7 +168,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: #215C98;
+  background: url(../images/background.png) #4276b6;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -197,23 +197,23 @@ header {
 #banner {
   z-index: 100;
   left:0;
-  right:0;
+  right:50%;
   height: 50px;
-  margin-right:0px;
+  margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #4D93D9;
-  border: 1px solid #215C98;
+  background: #ffcc00;
+  border: 1px solid #f0b500;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #215C98;
-    background: linear-gradient(#A6C9EC, #4D93D9);
+    border: 1px solid #dba500;
+    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #A6C9EC;
+    background-color: #FFE788;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -225,20 +225,20 @@ header {
     text-align:center;
 
     &:hover {
-      background: linear-gradient(#A6C9EC, #A6C9EC);
+      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
       background-color: #ffeca0;
     }
   }
 
   .fork {
     position:fixed;
-    left:50px;
-    margin-left:0;
+    left:50%;
+    margin-left:-325px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
-    background-color: #A6C9EC;
+    background-color: #FFE788;
   }
 
   .downloads {
@@ -266,7 +266,7 @@ header {
       display:inline;
 
       a.button {
-        background-color:#A6C9EC;
+        background-color: #FFE788;
       }
     }
   }
@@ -275,7 +275,7 @@ header {
     position:absolute;
     height: 36px;
     width: 36px;
-    left:7px;
+    right:7px;
     top:7px;
     display: block;
     background: url(../images/octocat-logo.svg);
@@ -361,8 +361,6 @@ footer {
   bottom:20px;
   text-align: right;
   line-height: 16px;
-  background: #CCCCCC;
-  border: 5px solid #CCCCCC;
 }
 
 @media print, screen and (max-width: 1060px) {
@@ -528,6 +526,3 @@ footer {
     width:auto;
   }
 }
-
-
-
