@@ -69,9 +69,11 @@ strong {
 
 .wrapper {
   //width:650px;
+  display: flex; /* flexbox para distribuir los elementos horizontalmente */
   width:100%;
-  margin:0 auto;
-  position:relative;
+  // margin:0 auto;
+  // position:relative;
+  gap: 20px;
 }
 
 section img {
