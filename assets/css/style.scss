@@ -14,6 +14,17 @@ body {
   background: #DAE9F8;
 }
 
+.badges-container {
+  display: flex;
+  gap: 5px; 
+  justify-content: center; 
+  flex-wrap: wrap; 
+}
+
+.badges-container img {
+  height: 40px; 
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#333;
   margin:0 0 10px;
