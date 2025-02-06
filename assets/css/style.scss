@@ -315,6 +315,7 @@ nav {
   width: 230px;
   //position: fixed;
   position: sticky;
+  z-index: 10; //x
   background: #fff;
   top: 220px;
   left:50%;
