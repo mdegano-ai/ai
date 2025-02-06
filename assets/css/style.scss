@@ -312,13 +312,11 @@ small {
 }
 
 nav {
-  width: 300px; // width: 230px;
-  position: sticky; //position: fixed;
-  z-index: 10; // -  
+  width: 230px;
+  position: fixed;
   background: #fff; // -  
   top: 220px;
   left:50%;
-  transform: translateX(-50%); // - 
   margin-left:-580px;
   text-align: left;
 
