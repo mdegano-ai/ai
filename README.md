@@ -22,7 +22,7 @@ xxxxxxxxxx
 xxxxxxxxxx  
 xxxxxxxxxx  
 
-<a href="X" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Notebook)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="X" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 ## subtitle
 
