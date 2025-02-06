@@ -302,7 +302,8 @@ small {
 
 nav {
   width: 230px;
-  position: fixed;
+  // position: fixed;
+  position: relative;
   top: 220px;
   left:50%;
   margin-left:-580px;
