@@ -20,7 +20,7 @@ xxxxxxxxxx
 xxxxxxxxxx  
 xxxxxxxxxx  
 
-<a href="X" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="X" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-XXXXX)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 ## subtitle
 
@@ -28,6 +28,7 @@ xxxxxxxxxx
 xxxxxxxxxx  
 xxxxxxxxxx  
 
+<a href="X" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/XXXXX-B9E1F5?style=flat-square&logo=github"></a>
 
 # Evolutionary Algorithms
 
