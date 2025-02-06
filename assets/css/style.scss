@@ -47,13 +47,6 @@ h4, h5, h6 {
   color:#666666;
 }
 
-name {
-  font-size: 18px;
-  color:#215C98;
-  font-style: italic; 
-  font-weight: bold;  
-}
-
 a {
   color:#215C98;
   font-weight:400;
@@ -371,6 +364,15 @@ footer {
   text-align: right;
   line-height: 16px;
   border: 1px solid #FF0000;
+
+
+  name {
+    font-size: 18px;
+    color:#215C98;
+    font-style: italic; 
+    font-weight: bold;  
+  }
+
 }
 
 @media print, screen and (max-width: 1060px) {
