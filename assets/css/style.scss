@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.badges-container {
+  background-color: #ffcc00;
+}
+.badges {
+  height:15;
+  width:auto;
+}
