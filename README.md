@@ -1,16 +1,17 @@
-# Machine Learning
+## Machine Learning
 
-## subtitle
+### subtitle
 <a href="X" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<br>
 <a href="X" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebook-B9E1F5?style=flat-square&logo=github"></a>
 
-# Evolutionary Algorithms
+## Evolutionary Algorithms
 
-# Deep Learning
+## Deep Learning
 
-# Natural Language Processing
+## Natural Language Processing
 
-# Computer Vision
+## Computer Vision
 
 <br><br>
 <div align="center">
