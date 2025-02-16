@@ -14,5 +14,5 @@
 
 <br><br>
 <div align="left">
-  <a href="https://mdegano-ai.github.io/ai/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home"></a>
+  <a href="https://mdegano-ai.github.io/ai/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home"></a>
 </div>
