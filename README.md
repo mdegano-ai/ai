@@ -4,12 +4,24 @@
 ## Machine Learning
 <br>
 <table>
-	<tr valign="top">
-		<td> Supervised Learning</td> 
-		<td>Regression and classification problems.<br>Simple and multiple linear regression.<br>Simple and multiple logistic regression.  Multiclass logistic regression.<br>Naive Bayes.<br>K-Nearest Neighbors.<br>Support Vector Machine.<br>Decision Trees - Classification & Regression Trees.<br>Neural Networks (Perceptron, Feedforward).<br>Ensemble methods (Voting, Bagging (e.g., Random Forest), Boosting (e.g., AdaBoost, Gradient Boosting, XGBoost)).</td>
+	<tr>
+		<td class="styled-cell"> Supervised Learning</td> 
+		<td>
+			<ul>
+				<li>Regression and classification problems.</li>
+				<li>Simple and multiple linear regression.</li>
+				<li>Simple and multiple logistic regression.  Multiclass logistic regression.</li>
+				<li>Naive Bayes.</li>
+				<li>K-Nearest Neighbors.</li>
+				<li>Support Vector Machine.</li>
+				<li>Decision Trees - Classification & Regression Trees.</li>
+				<li>Neural Networks (Perceptron, Feedforward).</li>
+				<li>Ensemble methods (Voting, Bagging (e.g., Random Forest), Boosting (e.g., AdaBoost, Gradient Boosting, XGBoost)).</li>
+			</ul>
+		</td>
 	</tr>
-	<tr valign="top">
-		<td> Unsupervised Learning </td> 
+	<tr>
+		<td class="styled-cell"> Unsupervised Learning </td> 
 		<td>
 			<ul>
 				<li>Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).</li> 
@@ -17,8 +29,8 @@
 			</ul>
 		</td> 
 	</tr>
-	<tr valign="top">
-		<td>Reinforcement Learning </td> 
+	<tr>
+		<td class="styled-cell">Reinforcement Learning </td> 
 		<td>
 			<ul>
 				<li>Markov Decision Process.</li>
