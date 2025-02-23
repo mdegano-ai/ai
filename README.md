@@ -77,7 +77,7 @@
 				<li>Statistical data analysis.</li>
 					<ul>
 						<li>Univariate Analysis (Descriptive Statistics, Frequency Distribution)</li>
-						<li>Bivariate / Multivariate Analysis (Correlation Analysis (Pearson, Spearman), Scatter Plots, Pair Plots, Correlation Matrix)</li>
+						<li>Bivariate / Multivariate Analysis (e.g., Correlation Analysis (Pearson, Spearman), Scatter Plots, Pair Plots, Correlation Matrix)</li>
 					</ul>	
 			</ul>
 		</td>
@@ -120,7 +120,19 @@
 <br>
 
 <h2>Deep Learning</h2>
-
+<br>
+<ul>
+	<li>Activation | Loss Functions.</li>
+	<li>Regularization techniques.</li>
+	<li>Embedding Layers.</li>
+	<li>Feedforward Neural Networks (FNN).</li>
+	<li>Convolutional Neural Network (CNN).</li>
+	<li>Recurrent Neural Networks (RNN).</li>
+	<li>Attention Layers.</li>
+	<li>Encoder-Decoder. Autoencoder.</li>
+	<li>Generative Adversarial Networks (GANs).</li>
+	<li>Transfer Learning Strategies (e.g., Fine tuning, Feature Extraction).</li>
+</ul>	
 <br>
 <a href="samples/dl/" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
 <br><br>  
