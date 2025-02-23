@@ -59,26 +59,33 @@
   <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
 </div>
 <br>
-<a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<a href="samples/ml/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 
 <h2>Exploratory Data Analysis</h2>
 
-## Deep Learning
+<h2>Deep Learning</h2>
 
-## Evolutionary Algorithms
+<br>
+<a href="samples/dl/" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<br><br>  
 
-## Natural Language Processing
+<h2>Evolutionary Algorithms</h2>
+<br>
+<a href="samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<br><br>  
 
-## Computer Vision
+<h2>Natural Language Processing</h2>
+<br>
+<a href="samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<br><br>  
 
-## MLOps
+<h2>Computer Vision</h2>
+<br>
+<a href="samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<br><br>  
 
-<br><br>
-
-<a href="#" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
-
-<a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebook-B9E1F5?style=flat-square&logo=github"></a>
+<h2>MLOps</h2>
 
 <br><br>
 <div align="left">
