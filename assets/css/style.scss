@@ -51,12 +51,17 @@ a:hover, a:focus {
 
 ul {
   list-style-type: square; 
-  color: #267CB9; 
 }
 
 ul ul {
   list-style-type: circle; 
-  color: #267CB9; 
 }
 
+ul ul li {
+  color: #393939; 
+}
+
+ul ul li::marker {
+  color: #267CB9; 
+}
 
