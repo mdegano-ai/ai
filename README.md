@@ -36,7 +36,8 @@
 				<li>Markov Decision Process.</li>
 				<li>Prediction vs. Control Problems.</li>
 				<li>Policy-Based vs. Value-Based Algorithms.</li>
-				<li>Iterative Solutions.<br>Q-Learning.</li>
+				<li>Iterative Solutions.</li>
+				<li>Q-Learning.</li>
 			</ul>
 		</td> 
 	</tr>
