@@ -24,13 +24,7 @@
 * Performance metrics.
   
 * Hyperparameter Tuning
-  * Grid Search
-  * Random Search
-  * Local Beam Search
-  * Bayesian Optimization
-  * Genetic Algorithms
-  * Gradient-based Optimization
-  * Simulated Annealing
+  * Grid Search | Random Search | Local Beam Search | Bayesian Optimization | Genetic Algorithms | Gradient-based Optimization | Simulated Annealing  
   * Hyperparameter Optimization Libraries/Frameworks
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
