@@ -10,7 +10,12 @@
 	</tr>
 	<tr>
 		<td> Unsupervised Learning </td> 
-		<td>Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).<br>Dimensionality Reduction (e.g., PCA, UMAP).  </td> 
+		<td>
+			<ul>
+				<li>Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).</li> 
+				<li>Dimensionality Reduction (e.g., PCA, UMAP).</li> 
+			</ul>
+		</td> 
 	</tr>
 	<tr>
 		<td>Reinforcement Learning </td> 
