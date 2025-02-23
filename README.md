@@ -20,8 +20,9 @@
 	</tr>
 <table>
 <br>
-* Performance metrics.  
-	
+
+* Performance metrics.
+  
 * Hyperparameter Tuning
   * Grid Search
   * Random Search
