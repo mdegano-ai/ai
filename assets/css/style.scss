@@ -79,3 +79,9 @@ ul ul li::marker {
   vertical-align: top;
 }
 
+.image-container {
+    display: flex;
+    align-items: center; 
+    justify-content: right; 
+    height: 50px; 
+  }
