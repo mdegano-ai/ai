@@ -3,6 +3,13 @@
 
 ## Machine Learning
 
+| Encabezado       | Valor 1  | Valor 2  | Valor 3  |  
+|------------------|----------|----------|----------|  
+| Nombre           | Juan     | María    | Carlos   |  
+| Edad             | 28       | 34       | 45       |  
+| Ciudad           | Madrid   | Barcelona| Valencia |  
+
+
 ## Exploratory Data Analysis
 
 ## Deep Learning
