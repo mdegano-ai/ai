@@ -44,14 +44,23 @@
 <br>
 
 <ul>
-  <li>Performance metrics.</li>
+  <li>Bias. Variance. Performance metrics.</li>
   <br>
-  <li>Hyperparameter Tuning.  
-    <ul>
-      <li>Grid Search | Random Search | Local Beam Search | Bayesian Optimization | Genetic Algorithms | Gradient-based Optimization | Simulated Annealing </li>
-      <li>Hyperparameter Optimization Libraries/Frameworks</li>
-    </ul>
-  </li>
+  <li>Strategies to reduce empirical risk</li>
+	<ul>
+		<li>Regularization (L1, L2, Elastic).</li>
+		<li>Cross validation (e.g., K-fold).</li>
+		<li>Early stopping.</li>
+		<li>Ensemnble methods.</li>
+		<li>Data augmentation.</li>
+		<li>Dimensionality Reduction.</li>
+		<li>Hyperparameter Tuning.  
+		    <ul>
+		      <li>Grid Search | Random Search | Local Beam Search | Bayesian Optimization | Genetic Algorithms | Gradient-based Optimization | Simulated Annealing </li>
+		      <li>Hyperparameter Optimization Libraries/Frameworks</li>
+		    </ul>
+		</li>
+	</ul>
 </ul>  
 <div class="image-container">
   <img src="assets/images/optuna.jpg" alt="optuna" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
