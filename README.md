@@ -59,7 +59,7 @@
   <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
 </div>
 <br>
-<a href="samples/ml/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<a href="https://github.com/mdegano-ai/ai/tree/main/samples/ml/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 <br>
 <h2>Exploratory Data Analysis</h2>
@@ -133,7 +133,7 @@
 	<li>Transfer Learning Strategies (e.g., Fine tuning, Feature Extraction).</li>
 </ul>	
 <br>
-<a href="samples/dl/" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="https://github.com/mdegano-ai/ai/tree/main/samples/dl/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
 
@@ -146,18 +146,18 @@
 	<li>Swarm Intelligence</li>
 </ul>	
 <br>
-<a href="samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<a href="https://github.com/mdegano-ai/ai/tree/main/samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 <br>
 <h2>Natural Language Processing</h2>
 <br>
-<a href="samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<a href="https://github.com/mdegano-ai/ai/tree/main/samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
 
 <h2>Computer Vision</h2>
 <br>
-<a href="samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
+<a href="https://github.com/mdegano-ai/ai/tree/main/samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
 
