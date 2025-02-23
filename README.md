@@ -3,12 +3,28 @@
 
 ## Machine Learning
 
-| Encabezado       | Valor 1  | Valor 2  | Valor 3  |  
-|------------------|----------|----------|----------|  
-| Nombre           | Juan     | María    | Carlos   |  
-| Edad             | 28       | 34       | 45       |  
-| Ciudad           | Madrid   | Barcelona| Valencia |  
-
+* Problem-solving agent programming.  Search algorithms (Informed vs. Uninformed). Optimization.
+<br>
+| Supervised Learning           | Regression and classification problems.<br>Simple and multiple linear regression.<br>Simple and multiple logistic regression.  Multiclass logistic regression.<br>Naive Bayes.<br>K-Nearest Neighbors.<br>Support Vector Machine.<br>Decision Trees - Classification & Regression Trees.<br>Neural Networks (Perceptron, Feedforward).<br>Ensemble methods (Voting, Bagging (e.g., Random Forest), Boosting (e.g., AdaBoost, Gradient Boosting, XGBoost)).  |  
+| Unsupervised Learning             | Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).<br>Dimensionality Reduction (e.g., PCA, UMAP).  |  
+| Reinforcement Learning           | Markov Decision Process.<br>Prediction vs. Control Problems.<br>Policy-Based vs. Value-Based Algorithms.<br>Iterative Solutions.<br>Q-Learning.  |  
+<br>
+* Performance metrics	  
+	
+* Hyperparameter Tuning
+  * Grid Search
+  * Random Search
+  * Local Beam Search
+  * Bayesian Optimization
+  * Genetic Algorithms
+  * Gradient-based Optimization
+  * Simulated Annealing
+  * Hyperparameter Optimization Libraries/Frameworks
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
+<br>
+<a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>
 
 ## Exploratory Data Analysis
 
