@@ -232,6 +232,10 @@
 	</tr>
 </table>
 <br>
+<div class="image-container">
+  <img src="assets/images/opencv.jpg" alt="OpenCV" height="20" width="auto"/>  
+</div>
+<br>
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
