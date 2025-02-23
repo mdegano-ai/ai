@@ -49,10 +49,10 @@
   <li>Strategies to reduce empirical risk</li>
 	<ul>
 		<li>Regularization (L1, L2, Elastic).</li>
-		<li>Cross validation (e.g., K-fold).</li>
-		<li>Early stopping.</li>
-		<li>Ensemnble methods.</li>
-		<li>Data augmentation.</li>
+		<li>Cross Validation (e.g., K-fold).</li>
+		<li>Early Stopping.</li>
+		<li>Ensemble Methods.</li>
+		<li>Data Augmentation.</li>
 		<li>Dimensionality Reduction.</li>
 		<li>Hyperparameter Tuning.  
 		    <ul>
