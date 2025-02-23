@@ -2,8 +2,6 @@
 <br><br>
 
 ## Machine Learning
-
-* Problem-solving agent programming.  Search algorithms (Informed vs. Uninformed). Optimization.
 <br>
 <table>
 	<tr>
