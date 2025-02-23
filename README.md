@@ -160,7 +160,17 @@
 <br><br>  
 
 <h2>MLOps</h2>
-
+<br>
+<ul>
+	<li> Model Versioning (Git, MLFlow).</li>
+	<li> Model Deployment (Batch Processing, Online/Real-time inference | Rest APIs).</li>
+	<li> Containerization and Orchestration (Docker, Apache Airflow).</li>
+</ul>
+<div class="image-container">
+  <img src="assets/images/optuna.jpg" alt="optuna" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/scikit-learn-logo-small.png" alt="scikit-learn" height="20" width="auto"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
+</div>
 <br><br>
 <div align="left">
   <a href="https://mdegano-ai.github.io/ai/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home"></a>
