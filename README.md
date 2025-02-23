@@ -151,6 +151,20 @@
 <br>
 <h2>Natural Language Processing</h2>
 <br>
+<ul>
+	<li>Vectorization.</li>
+	<li>Word embeddings.</li>
+	<li>Tokenization.</li>
+	<li>RNNs (Elman, LSTM, GRU).</li>
+	<li>CNNs. Text Classification.</li>
+	<li>Seq2seq (Translations, Q&A bots).</li>
+	<li>Attention Mechanisms.</li>
+	<li>Transformers.  GPT.</li>
+	<li>BERT | ELMo.</li>
+	<li>Language models.</li>
+
+</ul>
+<br>
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
