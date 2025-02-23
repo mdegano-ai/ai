@@ -118,7 +118,6 @@
 
 <table>
 <br><br>
-<br>
 <h2>Deep Learning</h2>
 <br>
 <ul>
