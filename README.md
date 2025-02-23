@@ -19,14 +19,18 @@
 <table>
 <br>
 
-* Performance metrics.
-  
-* Hyperparameter Tuning
-  * Grid Search | Random Search | Local Beam Search | Bayesian Optimization | Genetic Algorithms | Gradient-based Optimization | Simulated Annealing  
-  * Hyperparameter Optimization Libraries/Frameworks
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github">
+<ul>
+  <li>Performance metrics.</li>
+  <li>Hyperparameter Tuning.  
+    <ul>
+      <li>Grid Search | Random Search | Local Beam Search | Bayesian Optimization | Genetic Algorithms | Gradient-based Optimization | Simulated Annealing </li>
+      <li>Hyperparameter Optimization Libraries/Frameworks</li>
+    </ul>
+  </li>
+</ul>  
+  <img src="assets/images/optuna.jpg" alt="optuna" height="20" width="auto"/>
+  <img src="assets/images/scikit-learn-logo-small.png" alt="scikit-learn" height="20" width="auto"/>
+  <img src="assets/images/raytune.jpg" alt="ray-tune" height="20" width="auto"/>
 <br>
 <a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>
 
