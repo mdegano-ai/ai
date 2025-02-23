@@ -5,11 +5,22 @@
 
 * Problem-solving agent programming.  Search algorithms (Informed vs. Uninformed). Optimization.
 <br>
-| Supervised Learning           | Regression and classification problems.<br>Simple and multiple linear regression.<br>Simple and multiple logistic regression.  Multiclass logistic regression.<br>Naive Bayes.<br>K-Nearest Neighbors.<br>Support Vector Machine.<br>Decision Trees - Classification & Regression Trees.<br>Neural Networks (Perceptron, Feedforward).<br>Ensemble methods (Voting, Bagging (e.g., Random Forest), Boosting (e.g., AdaBoost, Gradient Boosting, XGBoost)).  |  
-| Unsupervised Learning             | Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).<br>Dimensionality Reduction (e.g., PCA, UMAP).  |  
-| Reinforcement Learning           | Markov Decision Process.<br>Prediction vs. Control Problems.<br>Policy-Based vs. Value-Based Algorithms.<br>Iterative Solutions.<br>Q-Learning.  |  
+<table>
+	<tr>
+		<td> Supervised Learning</td> 
+		<td>Regression and classification problems.<br>Simple and multiple linear regression.<br>Simple and multiple logistic regression.  Multiclass logistic regression.<br>Naive Bayes.<br>K-Nearest Neighbors.<br>Support Vector Machine.<br>Decision Trees - Classification & Regression Trees.<br>Neural Networks (Perceptron, Feedforward).<br>Ensemble methods (Voting, Bagging (e.g., Random Forest), Boosting (e.g., AdaBoost, Gradient Boosting, XGBoost)).</td>
+	</tr>
+	<tr>
+		<td> Unsupervised Learning </td> 
+		<td>Clustering  (e.g., K-means, Elbow Method, Gaussian Mixture Model).<br>Dimensionality Reduction (e.g., PCA, UMAP).  </td> 
+	</tr>
+	<tr>
+		<td>Reinforcement Learning </td> 
+		<td>Markov Decision Process.<br>Prediction vs. Control Problems.<br>Policy-Based vs. Value-Based Algorithms.<br>Iterative Solutions.<br>Q-Learning.</td> 
+	</tr>
+<table>
 <br>
-* Performance metrics	  
+* Performance metrics.  
 	
 * Hyperparameter Tuning
   * Grid Search
