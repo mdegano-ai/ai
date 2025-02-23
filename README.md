@@ -1,7 +1,7 @@
 [Machine Learning](#Machine-Learning) | [Exploratory Data Analysis](#Exploratory-Data-Analysis) | [Deep Learning](#Deep-Learning) | [Evolutionary Algorithms](#Evolutionary-Algorithms) | [Natural Language Processing](#Natural-Language-Processing) | [Computer Vision](#Computer-Vision) | [MLOps](#MLOps)   
 <br><br>
 
-## Machine Learning
+<h2>Machine Learning</h2>
 <br>
 <table>
 	<tr>
@@ -58,11 +58,11 @@
   <img src="assets/images/scikit-learn-logo-small.png" alt="scikit-learn" height="20" width="auto"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
 </div>
-<br><br>  
+<br>
 <a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 
-## Exploratory Data Analysis
+<h2>Exploratory Data Analysis</h2>
 
 ## Deep Learning
 
