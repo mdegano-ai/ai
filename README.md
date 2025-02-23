@@ -63,7 +63,7 @@
 		</li>
 	</ul>
 </ul>  
-<div class="image-container">
+<div class="image-container" border="1">
   <img src="assets/images/optuna.jpg" alt="optuna" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/images/scikit-learn-logo-small.png" alt="scikit-learn" height="20" width="auto"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
