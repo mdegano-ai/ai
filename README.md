@@ -1,7 +1,7 @@
 [Machine Learning](#Machine-Learning) | [Exploratory Data Analysis](#Exploratory-Data-Analysis) | [Deep Learning](#Deep-Learning) | [Evolutionary Algorithms](#Evolutionary-Algorithms) | [Natural Language Processing](#Natural-Language-Processing) | [Computer Vision](#Computer-Vision) | [MLOps](#MLOps)   
 <br><br>
 
-<h2>Machine Learning</h2>
+<h2 id="Machine-Learning">Machine Learning</h2>
 <br>
 <table>
 	<tr>
@@ -71,7 +71,7 @@
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/ml/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 <br>
-<h2>Exploratory Data Analysis</h2>
+<h2 id="Exploratory-Data-Analysis">Exploratory Data Analysis</h2>
 <br>
 <table>
 	<tr>
@@ -127,7 +127,7 @@
 
 <table>
 <br><br>
-<h2>Deep Learning</h2>
+<h2 id="Deep-Learning">Deep Learning</h2>
 <br>
 <ul>
 	<li>Activation | Loss Functions.</li>
@@ -146,7 +146,7 @@
 <br><br>
 <br>
 
-<h2>Evolutionary Algorithms</h2>
+<h2 id="Evolutionary-Algorithms">Evolutionary Algorithms</h2>
 <ul>
 	<li>Optimization | Modeling | Simulation Problems</li>
 	<li>Heuristics | Metaheuristics | Hyperheuristics</li>
@@ -158,7 +158,7 @@
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
 <br>
-<h2>Natural Language Processing</h2>
+<h2 id="Natural-Language-Processing">Natural Language Processing</h2>
 <br>
 <ul>
 	<li>Vectorization.</li>
@@ -178,7 +178,7 @@
 <br><br>
 <br>
 
-<h2>Computer Vision</h2>
+<h2 id="Computer-Vision">Computer Vision</h2>
 <br>
 <table>
 	<tr>
@@ -236,7 +236,7 @@
 <br><br>
 <br>
 
-<h2>MLOps</h2>
+<h2 id="MLOps">MLOps</h2>
 <br>
 <ul>
 	<li> Model Versioning (Git, MLFlow).</li>
