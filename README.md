@@ -63,6 +63,61 @@
 <br><br>  
 
 <h2>Exploratory Data Analysis</h2>
+<br>
+<table>
+	<tr>
+		<td class="styled-cell">Data Understanding</td> 
+		<td>
+			<ul>
+				<li>Data Inspection.</li> 
+				<li>Data Visualization.</li>
+				<li>Domain Knowledge Exploration.</li>
+				<li>Data Relationship Identification.</li>
+				<li>Data Quality Assessment.</li>
+				<li>Statistical data analysis.</li>
+					<ul>
+						<li>Univariate Analysis (Descriptive Statistics, Frequency Distribution)</li>
+						<li>Bivariate / Multivariate Analysis (Correlation Analysis (Pearson, Spearman), Scatter Plots, Pair Plots, Correlation Matrix)</li>
+					</ul>	
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td class="styled-cell">Data Cleaning</td> 
+		<td>
+			<ul>
+				<li>Missing Value Imputation (Univariate / Multivariate Imputation Methods).</li> 
+				<li>Data Inconsistency Correction.</li>
+				<li>Outlier Detection and Treatment</li>
+			</ul>
+		</td> 
+	</tr>
+	<tr>
+		<td class="styled-cell">Feature Engineering</td> 
+		<td>
+			<ul>
+				<li>Feature Selection / Extraction.</li>
+				<li>Data Transformation.</li>
+				<ul>
+					<li>Binning.</li>
+					<li>Normalization/Standardization/Scaling.</li>
+					<li>Encoding Categorical Features (One-hot encoding vs. Label encoding)</li>
+				</ul>
+			</ul>
+		</td> 
+	</tr>
+	<tr>
+		<td class="styled-cell">Dimensionality Reduction</td> 
+		<td>
+			<ul>
+				<li>PCA.</li>
+				<li>t-SNE.</li>
+			</ul>
+		</td> 
+	</tr>
+
+<table>
+<br>
 
 <h2>Deep Learning</h2>
 
@@ -71,6 +126,13 @@
 <br><br>  
 
 <h2>Evolutionary Algorithms</h2>
+<ul>
+	<li>Optimization | Modeling | Simulation Problems</li>
+	<li>Heuristics | Metaheuristics | Hyperheuristics</li>
+	<li>Fitness functions | Selection | Crossover | Mutation | Elitism </li>
+	<li>Particle Swarm Optimization (PSO, MOPSO)</li>
+	<li>Swarm Intelligence</li>
+</ul>	
 <br>
 <a href="samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
