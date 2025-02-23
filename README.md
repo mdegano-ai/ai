@@ -61,7 +61,7 @@
 <br>
 <a href="samples/ml/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
-
+<br>
 <h2>Exploratory Data Analysis</h2>
 <br>
 <table>
@@ -117,8 +117,8 @@
 	</tr>
 
 <table>
+<br><br>
 <br>
-
 <h2>Deep Learning</h2>
 <br>
 <ul>
@@ -135,7 +135,8 @@
 </ul>	
 <br>
 <a href="samples/dl/" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Sample%20Notebook-B9E1F5?style=flat-square&logo=googlecolab"></a>
-<br><br>  
+<br><br>
+<br>
 
 <h2>Evolutionary Algorithms</h2>
 <ul>
@@ -152,12 +153,14 @@
 <h2>Natural Language Processing</h2>
 <br>
 <a href="samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
-<br><br>  
+<br><br>
+<br>
 
 <h2>Computer Vision</h2>
 <br>
 <a href="samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
-<br><br>  
+<br><br>
+<br>
 
 <h2>MLOps</h2>
 <br>
@@ -167,9 +170,9 @@
 	<li> Containerization and Orchestration (Docker, Apache Airflow).</li>
 </ul>
 <div class="image-container">
-  <img src="assets/images/optuna.jpg" alt="optuna" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/scikit-learn-logo-small.png" alt="scikit-learn" height="20" width="auto"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/raytune.jpg" alt="ray-tune" height="40" width="auto"/>  
+  <img src="assets/images/mlflow.jpg" alt="mlflow" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/airflow.jpg" alt="airflow" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/docker-logo-blue.png" alt="docker" height="30" width="auto"/>  
 </div>
 <br><br>
 <div align="left">
