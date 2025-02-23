@@ -1,4 +1,5 @@
-[Machine Learning](#Machine-Learning) | [Exploratory Data Analysis](#Exploratory-Data-Analysis) | [Deep Learning](#Deep-Learning) | [Evolutionary Algorithms](#Evolutionary-Algorithms) | [Natural Language Processing](#Natural-Language-Processing) | [Computer Vision](#Computer-Vision) | [MLOps](#MLOps) |   
+[Machine Learning](#Machine-Learning) | [Exploratory Data Analysis](#Exploratory-Data-Analysis) | [Deep Learning](#Deep-Learning) | [Evolutionary Algorithms](#Evolutionary-Algorithms) | [Natural Language Processing](#Natural-Language-Processing) | [Computer Vision](#Computer-Vision) | [MLOps](#MLOps)   
+<br><br>
 
 ## Machine Learning
 
