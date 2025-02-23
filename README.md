@@ -171,6 +171,58 @@
 
 <h2>Computer Vision</h2>
 <br>
+<table>
+	<tr>
+		<td class="styled-cell">Traditional CV tecniques</td> 
+		<td>
+			<ul>
+				<li>Pixel Operators | Chromatic Coordinates | White-patch | Histogram Equalization.</li>
+				<li>Binarization (Global Thresholding, Adaptive Thresholding, OTSU).</li>
+				<li>Image Filtering.</li>
+					<ul>
+						<li>Linear Filters (Convolution).</li>
+						<li>Smoothing Filters (e.g., Gaussian Blur).</li>
+						<li>Sharpening Filters (e.g., Unsharp masking).</li>
+						<li>Non-Linear Filters.</li>
+						<li>Edge Detection Filter (Sobel, Prewitt, Canny , LoG).</li>
+						<li>Morphological Filters.</li>
+						<li>Frequency Domain Filters (Fourier).</li>
+					</ul>	
+				<li>Image Classification</li>
+				<li>Object Detection (Harris, Shi Tomasi, Hough). Template matching.</li>
+				<li>Image Segmentation (Semantic vs. Instance Segmentation).</li>
+				<li>Feature Extraction (SIFT, SURF, ORB, FAST, HoG , LBP).</li>
+				<li>Video Processing  (Optical flow , Background Subtraction, Object Tracking).</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td class="styled-cell">Deep Learning in CV</td> 
+		<td>
+			<ul>
+				<li>Data Augmentation.</li>
+				<li>Transfer Learning.</li>				
+				<li>Neural Style Transfer.</li>
+				<li>NN Architectures:</li>
+				<ul>
+					<li>AlexNet.</li>
+					<li>VGGNet.</li>
+					<li>ResNet.</li>
+					<li>Inception Architecture.</li>
+					<li>R-CNN.</li>
+					<li>Fast R-CNN.</li>
+					<li>Faster R-CNN.</li>
+					<li>YOLO.</li>
+					<li>SSD.</li>
+					<li>RetinaNet.</li>
+					<li>Generative Networks.</li>
+					<li>Visual transformers.</li>
+				</ul>
+			</ul>
+		</td>
+	</tr>
+</table>
+<br>
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/cv/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>
 <br>
