@@ -19,7 +19,14 @@
 	</tr>
 	<tr valign="top">
 		<td>Reinforcement Learning </td> 
-		<td>Markov Decision Process.<br>Prediction vs. Control Problems.<br>Policy-Based vs. Value-Based Algorithms.<br>Iterative Solutions.<br>Q-Learning.</td> 
+		<td>
+			<ul>
+				<li>Markov Decision Process.</li>
+				<li>Prediction vs. Control Problems.</li>
+				<li>Policy-Based vs. Value-Based Algorithms.</li>
+				<li>Iterative Solutions.<br>Q-Learning.</li>
+			</ul>
+		</td> 
 	</tr>
 <table>
 <br>
