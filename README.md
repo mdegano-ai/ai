@@ -148,7 +148,7 @@
 <br>
 <a href="samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
 <br><br>  
-
+<br>
 <h2>Natural Language Processing</h2>
 <br>
 <a href="samples/nlp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
@@ -169,9 +169,9 @@
 	<li> Containerization and Orchestration (Docker, Apache Airflow).</li>
 </ul>
 <div class="image-container">
-  <img src="assets/images/mlflow.jpg" alt="mlflow" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/mlflow.jpg" alt="mlflow" height="20" width="auto"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/images/airflow.jpg" alt="airflow" height="30" width="auto"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/docker-logo-blue.png" alt="docker" height="30" width="auto"/>  
+  <img src="assets/images/docker-logo-blue.png" alt="docker" height="20" width="auto"/>  
 </div>
 <br><br>
 <div align="left">
