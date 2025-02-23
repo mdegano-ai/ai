@@ -149,11 +149,11 @@
 
 <h2 id="Evolutionary-Algorithms">Evolutionary Algorithms</h2>
 <ul>
-	<li>Optimization | Modeling | Simulation Problems</li>
-	<li>Heuristics | Metaheuristics | Hyperheuristics</li>
-	<li>Fitness functions | Selection | Crossover | Mutation | Elitism </li>
-	<li>Particle Swarm Optimization (PSO, MOPSO)</li>
-	<li>Swarm Intelligence</li>
+	<li>Optimization | Modeling | Simulation Problems.</li>
+	<li>Heuristics | Metaheuristics | Hyperheuristics.</li>
+	<li>Fitness functions | Selection | Crossover | Mutation | Elitism. </li>
+	<li>Particle Swarm Optimization (PSO, MOPSO).</li>
+	<li>Swarm Intelligence.</li>
 </ul>	
 <br>
 <a href="https://github.com/mdegano-ai/ai/tree/main/samples/ea/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sample%20Notebooks-B9E1F5?style=flat-square&logo=github"></a>  
